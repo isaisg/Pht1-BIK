@@ -1,0 +1,442 @@
+﻿UiD,DADA_Id,Plate,PosNum,PosWell,Samples,#Pots,Lines,Genotypes,Background,Fractions,Tray,Group,Rep
+53,P02.bc1,2,1,A,53L,53,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,1,9,1
+69,P02.bc2,2,1,B,69L,69,WS,WS,WS,Leaf,3,2,1
+8,P02.bc3,2,1,C,8L,8,phf1,phf1,Col-0,Leaf,1,5,1
+68,P02.bc4,2,1,D,68L,68,WS,WS,WS,Leaf,4,2,1
+192,P02.bc5,2,1,E,42S,42,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,1
+127,P02.bc6,2,1,F,55R,55,Line 3,Si81psl1,Col-0,Root,4,4,1
+184,P02.bc7,2,1,G,34S,34,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,1,8,1
+209,P02.bc8,2,1,H,59S,59,Line 3,Si81psl1,Col-0,Soil,1,4,1
+183,P02.bc9,2,2,A,33S,33,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,3,8,1
+133,P02.bc10,2,2,B,61R,61,Line 2,"pht1,1;1,4",WS,Root,4,13,1
+66,P02.bc11,2,2,C,66L,66,Line 2,"pht1,1;1,4",WS,Leaf,2,13,1
+14,P02.bc12,2,2,D,14L,14,phr1,phr1,Col-0,Leaf,1,6,1
+213,P02.bc13,2,2,E,63S,63,Line 2,"pht1,1;1,4",WS,Soil,2,13,1
+149,P02.bc14,2,2,F,77S,77,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,1
+16,P02.bc15,2,2,G,16L,16,phr1,phr1,Col-0,Leaf,4,6,1
+107,P02.bc16,2,2,H,35R,35,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,2,8,1
+70,P02.bc17,2,3,A,70L,70,WS,WS,WS,Leaf,2,2,1
+177,P02.bc18,2,3,B,27S,27,phr1/phl1,phr1/phl1,Col-0,Soil,2,7,1
+74,P02.bc19,2,3,C,2R,2,Col-0,Col-0,Col-0,Root,4,1,1
+156,P02.bc20,2,3,D,6S,6,Col-0,Col-0,Col-0,Soil,3,1,1
+124,P02.bc21,2,3,E,52R,52,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,3,9,1
+61,P02.bc22,2,3,F,61L,61,Line 2,"pht1,1;1,4",WS,Leaf,4,13,1
+46,P02.bc23,2,3,G,46L,46,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,2,11,1
+187,P02.bc24,2,3,H,37S,37,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,1,10,1
+80,P02.bc25,2,4,A,8R,8,phf1,phf1,Col-0,Root,1,5,1
+131,P02.bc26,2,4,B,59R,59,Line 3,Si81psl1,Col-0,Root,1,4,1
+40,P02.bc27,2,4,C,40L,40,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,1
+132,P02.bc28,2,4,D,60R,60,Line 3,Si81psl1,Col-0,Root,2,4,1
+47,P02.bc29,2,4,E,47L,47,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,4,11,1
+50,P02.bc30,2,4,F,50L,50,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,1,9,1
+39,P02.bc31,2,4,G,39L,39,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,1
+37,P02.bc32,2,4,H,37L,37,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,1,10,1
+115,P02.bc33,2,5,A,43R,43,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,3,11,1
+125,P02.bc34,2,5,B,53R,53,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,1,9,1
+13,P02.bc35,2,5,C,13L,13,phr1,phr1,Col-0,Leaf,2,6,1
+116,P02.bc36,2,5,D,44R,44,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,3,11,1
+73,P02.bc37,2,5,E,1R,1,Col-0,Col-0,Col-0,Root,3,1,1
+111,P02.bc38,2,5,F,39R,39,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,1
+18,P02.bc39,2,5,G,18L,18,phr1,phr1,Col-0,Leaf,2,6,1
+98,P02.bc40,2,5,H,26R,26,phr1/phl1,phr1/phl1,Col-0,Root,1,7,1
+152,P02.bc41,2,6,A,2S,2,Col-0,Col-0,Col-0,Soil,4,1,1
+166,P02.bc42,2,6,B,16S,16,phr1,phr1,Col-0,Soil,4,6,1
+9,P02.bc43,2,6,C,9L,9,phf1,phf1,Col-0,Leaf,3,5,1
+141,P02.bc44,2,6,D,69R,69,WS,WS,WS,Root,3,2,1
+38,P02.bc45,2,6,E,38L,38,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,1,10,1
+162,P02.bc46,2,6,F,12S,12,phf1,phf1,Col-0,Soil,1,5,1
+196,P02.bc47,2,6,G,46S,46,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,2,11,1
+157,P02.bc48,2,6,H,7S,7,phf1,phf1,Col-0,Soil,3,5,1
+178,P02.bc49,2,7,A,28S,28,phr1/phl1,phr1/phl1,Col-0,Soil,4,7,1
+103,P02.bc50,2,7,B,31R,31,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,1,8,1
+75,P02.bc51,2,7,C,3R,3,Col-0,Col-0,Col-0,Root,1,1,1
+129,P02.bc52,2,7,D,57R,57,Line 3,Si81psl1,Col-0,Root,2,4,1
+32,P02.bc53,2,7,E,32L,32,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,4,8,1
+7,P02.bc54,2,7,F,7L,7,phf1,phf1,Col-0,Leaf,3,5,1
+144,P02.bc55,2,7,G,72R,72,WS,WS,WS,Root,4,2,1
+15,P02.bc56,2,7,H,15L,15,phr1,phr1,Col-0,Leaf,4,6,1
+123,P02.bc57,2,8,A,51R,51,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,2,9,1
+78,P02.bc58,2,8,B,6R,6,Col-0,Col-0,Col-0,Root,3,1,1
+42,P02.bc59,2,8,C,42L,42,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,1
+165,P02.bc60,2,8,D,15S,15,phr1,phr1,Col-0,Soil,4,6,1
+197,P02.bc61,2,8,E,47S,47,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,4,11,1
+41,P02.bc62,2,8,F,41L,41,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,1
+76,P02.bc63,2,8,G,4R,4,Col-0,Col-0,Col-0,Root,4,1,1
+199,P02.bc64,2,8,H,49S,49,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,4,9,1
+186,P02.bc65,2,9,A,36S,36,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,3,8,1
+44,P02.bc66,2,9,B,44L,44,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,3,11,1
+31,P02.bc67,2,9,C,31L,31,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,1,8,1
+158,P02.bc68,2,9,D,8S,8,phf1,phf1,Col-0,Soil,1,5,1
+89,P02.bc69,2,9,E,17R,17,phr1,phr1,Col-0,Root,3,6,1
+100,P02.bc70,2,9,F,28R,28,phr1/phl1,phr1/phl1,Col-0,Root,4,7,1
+218,P02.bc71,2,9,G,68S,68,WS,WS,WS,Soil,4,2,1
+119,P02.bc72,2,9,H,47R,47,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,4,11,1
+4,P02.bc73,2,10,A,4L,4,Col-0,Col-0,Col-0,Leaf,4,1,1
+198,P02.bc74,2,10,B,48S,48,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,1,11,1
+155,P02.bc75,2,10,C,5S,5,Col-0,Col-0,Col-0,Soil,4,1,1
+55,P02.bc76,2,10,D,55L,55,Line 3,Si81psl1,Col-0,Leaf,4,4,1
+83,P02.bc77,2,10,E,11R,11,phf1,phf1,Col-0,Root,4,5,1
+194,P02.bc78,2,10,F,44S,44,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,3,11,1
+29,P02.bc79,2,10,G,29L,29,phr1/phl1,phr1/phl1,Col-0,Leaf,1,7,1
+57,P02.bc80,2,10,H,57L,57,Line 3,Si81psl1,Col-0,Leaf,2,4,1
+86,P02.bc81,2,11,A,14R,14,phr1,phr1,Col-0,Root,1,6,1
+211,P02.bc82,2,11,B,61S,61,Line 2,"pht1,1;1,4",WS,Soil,4,13,1
+150,P02.bc83,2,11,C,78S,78,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,1
+216,P02.bc84,2,11,D,66S,66,Line 2,"pht1,1;1,4",WS,Soil,2,13,1
+128,P02.bc85,2,11,E,56R,56,Line 3,Si81psl1,Col-0,Root,3,4,1
+154,P02.bc86,2,11,F,4S,4,Col-0,Col-0,Col-0,Soil,4,1,1
+71,P02.bc87,2,11,G,71L,71,WS,WS,WS,Leaf,4,2,1
+180,P02.bc88,2,11,H,30S,30,phr1/phl1,phr1/phl1,Col-0,Soil,3,7,1
+164,P02.bc89,2,12,A,14S,14,phr1,phr1,Col-0,Soil,1,6,1
+153,P02.bc90,2,12,B,3S,3,Col-0,Col-0,Col-0,Soil,1,1,1
+77,P02.bc91,2,12,C,5R,5,Col-0,Col-0,Col-0,Root,4,1,1
+45,P02.bc92,2,12,D,45L,45,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,1,11,1
+51,P02.bc93,2,12,E,51L,51,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,2,9,1
+10,P02.bc94,2,12,F,10L,10,phf1,phf1,Col-0,Leaf,4,5,1
+84,P02.bc95,2,12,G,12R,12,phf1,phf1,Col-0,Root,1,5,1
+52,P03.bc1,3,1,A,52L,52,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,3,9,1
+163,P03.bc2,3,1,B,13S,13,phr1,phr1,Col-0,Soil,2,6,1
+2,P03.bc3,3,1,C,2L,2,Col-0,Col-0,Col-0,Leaf,4,1,1
+212,P03.bc4,3,1,D,62S,62,Line 2,"pht1,1;1,4",WS,Soil,3,13,1
+146,P03.bc5,3,1,E,74S,74,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,1
+109,P03.bc6,3,1,F,37R,37,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,1,10,1
+97,P03.bc7,3,1,G,25R,25,phr1/phl1,phr1/phl1,Col-0,Root,2,7,1
+147,P03.bc8,3,1,H,75S,75,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,1
+88,P03.bc9,3,2,A,16R,16,phr1,phr1,Col-0,Root,4,6,1
+138,P03.bc10,3,2,B,66R,66,Line 2,"pht1,1;1,4",WS,Root,2,13,1
+143,P03.bc11,3,2,C,71R,71,WS,WS,WS,Root,4,2,1
+142,P03.bc12,3,2,D,70R,70,WS,WS,WS,Root,2,2,1
+204,P03.bc13,3,2,E,54S,54,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,1,9,1
+25,P03.bc14,3,2,F,25L,25,phr1/phl1,phr1/phl1,Col-0,Leaf,2,7,1
+219,P03.bc15,3,2,G,69S,69,WS,WS,WS,Soil,3,2,1
+110,P03.bc16,3,2,H,38R,38,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,1,10,1
+67,P03.bc17,3,3,A,67L,67,WS,WS,WS,Leaf,2,2,1
+207,P03.bc18,3,3,B,57S,57,Line 3,Si81psl1,Col-0,Soil,2,4,1
+64,P03.bc19,3,3,C,64L,64,Line 2,"pht1,1;1,4",WS,Leaf,2,13,1
+28,P03.bc20,3,3,D,28L,28,phr1/phl1,phr1/phl1,Col-0,Leaf,4,7,1
+6,P03.bc21,3,3,E,6L,6,Col-0,Col-0,Col-0,Leaf,3,1,1
+81,P03.bc22,3,3,F,9R,9,phf1,phf1,Col-0,Root,3,5,1
+104,P03.bc23,3,3,G,32R,32,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,4,8,1
+35,P03.bc24,3,3,H,35L,35,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,2,8,1
+101,P03.bc25,3,4,A,29R,29,phr1/phl1,phr1/phl1,Col-0,Root,1,7,1
+48,P03.bc26,3,4,B,48L,48,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,1,11,1
+161,P03.bc27,3,4,C,11S,11,phf1,phf1,Col-0,Soil,4,5,1
+12,P03.bc28,3,4,D,12L,12,phf1,phf1,Col-0,Leaf,1,5,1
+205,P03.bc29,3,4,E,55S,55,Line 3,Si81psl1,Col-0,Soil,4,4,1
+193,P03.bc30,3,4,F,43S,43,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,3,11,1
+200,P03.bc31,3,4,G,50S,50,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,1,9,1
+87,P03.bc32,3,4,H,15R,15,phr1,phr1,Col-0,Root,4,6,1
+85,P03.bc33,3,5,A,13R,13,phr1,phr1,Col-0,Root,2,6,1
+5,P03.bc34,3,5,B,5L,5,Col-0,Col-0,Col-0,Leaf,4,1,1
+175,P03.bc35,3,5,C,25S,25,phr1/phl1,phr1/phl1,Col-0,Soil,2,7,1
+114,P03.bc36,3,5,D,42R,42,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,1
+17,P03.bc37,3,5,E,17L,17,phr1,phr1,Col-0,Leaf,3,6,1
+34,P03.bc38,3,5,F,34L,34,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,1,8,1
+11,P03.bc39,3,5,G,11L,11,phf1,phf1,Col-0,Leaf,4,5,1
+59,P03.bc40,3,5,H,59L,59,Line 3,Si81psl1,Col-0,Leaf,1,4,1
+113,P03.bc41,3,6,A,41R,41,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,1
+185,P03.bc42,3,6,B,35S,35,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,2,8,1
+137,P03.bc43,3,6,C,65R,65,Line 2,"pht1,1;1,4",WS,Root,4,13,1
+190,P03.bc44,3,6,D,40S,40,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,1
+65,P03.bc45,3,6,E,65L,65,Line 2,"pht1,1;1,4",WS,Leaf,4,13,1
+63,P03.bc46,3,6,F,63L,63,Line 2,"pht1,1;1,4",WS,Leaf,2,13,1
+122,P03.bc47,3,6,G,50R,50,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,1,9,1
+79,P03.bc48,3,6,H,7R,7,phf1,phf1,Col-0,Root,3,5,1
+121,P03.bc49,3,7,A,49R,49,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,4,9,1
+3,P03.bc50,3,7,B,3L,3,Col-0,Col-0,Col-0,Leaf,1,1,1
+160,P03.bc51,3,7,C,10S,10,phf1,phf1,Col-0,Soil,4,5,1
+195,P03.bc52,3,7,D,45S,45,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,1,11,1
+220,P03.bc53,3,7,E,70S,70,WS,WS,WS,Soil,2,2,1
+206,P03.bc54,3,7,F,56S,56,Line 3,Si81psl1,Col-0,Soil,3,4,1
+210,P03.bc55,3,7,G,60S,60,Line 3,Si81psl1,Col-0,Soil,2,4,1
+221,P03.bc56,3,7,H,71S,71,WS,WS,WS,Soil,4,2,1
+182,P03.bc57,3,8,A,32S,32,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,4,8,1
+120,P03.bc58,3,8,B,48R,48,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,1,11,1
+58,P03.bc59,3,8,C,58L,58,Line 3,Si81psl1,Col-0,Leaf,4,4,1
+145,P03.bc60,3,8,D,73S,73,Bulk soil,Bulk soil,Bulk soil,Soil,1,17,1
+167,P03.bc61,3,8,E,17S,17,phr1,phr1,Col-0,Soil,3,6,1
+217,P03.bc62,3,8,F,67S,67,WS,WS,WS,Soil,2,2,1
+151,P03.bc63,3,8,G,1S,1,Col-0,Col-0,Col-0,Soil,3,1,1
+126,P03.bc64,3,8,H,54R,54,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,1,9,1
+136,P03.bc65,3,9,A,64R,64,Line 2,"pht1,1;1,4",WS,Root,2,13,1
+118,P03.bc66,3,9,B,46R,46,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,2,11,1
+26,P03.bc67,3,9,C,26L,26,phr1/phl1,phr1/phl1,Col-0,Leaf,1,7,1
+222,P03.bc68,3,9,D,72S,72,WS,WS,WS,Soil,4,2,1
+49,P03.bc69,3,9,E,49L,49,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,4,9,1
+208,P03.bc70,3,9,F,58S,58,Line 3,Si81psl1,Col-0,Soil,4,4,1
+168,P03.bc71,3,9,G,18S,18,phr1,phr1,Col-0,Soil,2,6,1
+117,P03.bc72,3,9,H,45R,45,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,1,11,1
+188,P03.bc73,3,10,A,38S,38,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,1,10,1
+140,P03.bc74,3,10,B,68R,68,WS,WS,WS,Root,4,2,1
+108,P03.bc75,3,10,C,36R,36,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,3,8,1
+189,P03.bc76,3,10,D,39S,39,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,1
+112,P03.bc77,3,10,E,40R,40,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,1
+130,P03.bc78,3,10,F,58R,58,Line 3,Si81psl1,Col-0,Root,4,4,1
+90,P03.bc79,3,10,G,18R,18,phr1,phr1,Col-0,Root,2,6,1
+106,P03.bc80,3,10,H,34R,34,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,1,8,1
+148,P03.bc81,3,11,A,76S,76,Bulk soil,Bulk soil,Bulk soil,Soil,1,17,1
+1,P03.bc82,3,11,B,1L,1,Col-0,Col-0,Col-0,Leaf,3,1,1
+82,P03.bc83,3,11,C,10R,10,phf1,phf1,Col-0,Root,4,5,1
+62,P03.bc84,3,11,D,62L,62,Line 2,"pht1,1;1,4",WS,Leaf,3,13,1
+191,P03.bc85,3,11,E,41S,41,Line 6,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,1
+54,P03.bc86,3,11,F,54L,54,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,1,9,1
+36,P03.bc87,3,11,G,36L,36,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,3,8,1
+102,P03.bc88,3,11,H,30R,30,phr1/phl1,phr1/phl1,Col-0,Root,3,7,1
+139,P03.bc89,3,12,A,67R,67,WS,WS,WS,Root,2,2,1
+33,P03.bc90,3,12,B,33L,33,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,3,8,1
+176,P03.bc91,3,12,C,26S,26,phr1/phl1,phr1/phl1,Col-0,Soil,1,7,1
+72,P03.bc92,3,12,D,72L,72,WS,WS,WS,Leaf,4,2,1
+135,P03.bc93,3,12,E,63R,63,Line 2,"pht1,1;1,4",WS,Root,2,13,1
+201,P03.bc94,3,12,F,51S,51,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,2,9,1
+27,P03.bc95,3,12,G,27L,27,phr1/phl1,phr1/phl1,Col-0,Leaf,2,7,1
+30,P04.bc1,4,1,A,30L,30,phr1/phl1,phr1/phl1,Col-0,Leaf,3,7,1
+134,P04.bc2,4,1,B,62R,62,Line 2,"pht1,1;1,4",WS,Root,3,13,1
+179,P04.bc3,4,1,C,29S,29,phr1/phl1,phr1/phl1,Col-0,Soil,1,7,1
+203,P04.bc4,4,1,D,53S,53,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,1,9,1
+60,P04.bc5,4,1,E,60L,60,Line 3,Si81psl1,Col-0,Leaf,2,4,1
+181,P04.bc6,4,1,F,31S,31,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,1,8,1
+56,P04.bc7,4,1,G,56L,56,Line 3,Si81psl1,Col-0,Leaf,3,4,1
+105,P04.bc8,4,1,H,33R,33,Line 7,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,3,8,1
+214,P04.bc9,4,2,A,64S,64,Line 2,"pht1,1;1,4",WS,Soil,2,13,1
+215,P04.bc10,4,2,B,65S,65,Line 2,"pht1,1;1,4",WS,Soil,4,13,1
+159,P04.bc11,4,2,C,9S,9,phf1,phf1,Col-0,Soil,3,5,1
+202,P04.bc12,4,2,D,52S,52,Line 4,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,3,9,1
+43,P04.bc13,4,2,E,43L,43,Line 5,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,3,11,1
+99,P04.bc14,4,2,F,27R,27,phr1/phl1,phr1/phl1,Col-0,Root,2,7,1
+227,P01.bc1,1,1,A,5L,5,Col-0,Col-0,Col-0,Leaf,4,1,2
+282,P01.bc2,1,1,B,60L,60,Line 9,"pht1,4",WS,Leaf,1,14,2
+267,P01.bc3,1,1,C,45L,45,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,2,16,2
+442,P01.bc4,1,1,D,64S,64,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,1,8,2
+228,P01.bc5,1,1,E,6L,6,Col-0,Col-0,Col-0,Leaf,4,1,2
+260,P01.bc6,1,1,F,38L,38,Line 6,Si81psl1,Col-0,Leaf,3,4,2
+392,P01.bc7,1,1,G,14S,14,Line 2,Si81,Col-0,Soil,4,3,2
+432,P01.bc8,1,1,H,54S,54,Line 8,"pht1,1",Col-0,Soil,3,12,2
+277,P01.bc9,1,2,A,55L,55,Line 9,"pht1,4",WS,Leaf,2,14,2
+425,P01.bc10,1,2,B,47S,47,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,5,16,2
+385,P01.bc11,1,2,C,7S,7,WS,WS,WS,Soil,3,2,2
+278,P01.bc12,1,2,D,56L,56,Line 9,"pht1,4",WS,Leaf,4,14,2
+317,P01.bc13,1,2,E,17R,17,Line 2,Si81,Col-0,Root,2,3,2
+357,P01.bc14,1,2,F,57R,57,Line 9,"pht1,4",WS,Root,2,14,2
+276,P01.bc15,1,2,G,54L,54,Line 8,"pht1,1",Col-0,Leaf,3,12,2
+433,P01.bc16,1,2,H,55S,55,Line 9,"pht1,4",WS,Soil,2,14,2
+353,P01.bc17,1,3,A,53R,53,Line 8,"pht1,1",Col-0,Root,3,12,2
+423,P01.bc18,1,3,B,45S,45,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,2,16,2
+265,P01.bc19,1,3,C,43L,43,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,1,16,2
+280,P01.bc20,1,3,D,58L,58,Line 9,"pht1,4",WS,Leaf,1,14,2
+275,P01.bc21,1,3,E,53L,53,Line 8,"pht1,1",Col-0,Leaf,3,12,2
+462,P01.bc22,1,3,F,84S,84,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,2
+245,P01.bc23,1,3,G,23L,23,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,2,11,2
+450,P01.bc24,1,3,H,72S,72,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,5,9,2
+248,P01.bc25,1,4,A,26L,26,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,1,15,2
+408,P01.bc26,1,4,B,30S,30,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,4,15,2
+246,P01.bc27,1,4,C,24L,24,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,3,11,2
+411,P01.bc28,1,4,D,33S,33,Line 5,"pht1,1;1,4",WS,Soil,4,13,2
+446,P01.bc29,1,4,E,68S,68,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,3,9,2
+323,P01.bc30,1,4,F,23R,23,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,2,11,2
+321,P01.bc31,1,4,G,21R,21,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,6,11,2
+238,P01.bc32,1,4,H,16L,16,Line 2,Si81,Col-0,Leaf,4,3,2
+231,P01.bc33,1,5,A,9L,9,WS,WS,WS,Leaf,3,2,2
+428,P01.bc34,1,5,B,50S,50,Line 8,"pht1,1",Col-0,Soil,3,12,2
+441,P01.bc35,1,5,C,63S,63,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,2,8,2
+377,P01.bc36,1,5,D,77R,77,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,4,10,2
+379,P01.bc37,1,5,E,1S,1,Col-0,Col-0,Col-0,Soil,2,1,2
+241,P01.bc38,1,5,F,19L,19,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,1,11,2
+342,P01.bc39,1,5,G,42R,42,Line 6,Si81psl1,Col-0,Root,1,4,2
+328,P01.bc40,1,5,H,28R,28,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,4,15,2
+336,P01.bc41,1,6,A,36R,36,Line 5,"pht1,1;1,4",WS,Root,4,13,2
+249,P01.bc42,1,6,B,27L,27,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,4,15,2
+421,P01.bc43,1,6,C,43S,43,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,1,16,2
+427,P01.bc44,1,6,D,49S,49,Line 8,"pht1,1",Col-0,Soil,3,12,2
+448,P01.bc45,1,6,E,70S,70,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,1,9,2
+264,P01.bc46,1,6,F,42L,42,Line 6,Si81psl1,Col-0,Leaf,1,4,2
+271,P01.bc47,1,6,G,49L,49,Line 8,"pht1,1",Col-0,Leaf,3,12,2
+341,P01.bc48,1,6,H,41R,41,Line 6,Si81psl1,Col-0,Root,2,4,2
+232,P01.bc49,1,7,A,10L,10,WS,WS,WS,Leaf,3,2,2
+287,P01.bc50,1,7,B,65L,65,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,2,8,2
+396,P01.bc51,1,7,C,18S,18,Line 2,Si81,Col-0,Soil,2,3,2
+422,P01.bc52,1,7,D,44S,44,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,2,16,2
+426,P01.bc53,1,7,E,48S,48,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,1,16,2
+359,P01.bc54,1,7,F,59R,59,Line 9,"pht1,4",WS,Root,4,14,2
+345,P01.bc55,1,7,G,45R,45,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,2,16,2
+360,P01.bc56,1,7,H,60R,60,Line 9,"pht1,4",WS,Root,1,14,2
+298,P01.bc57,1,8,A,76L,76,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,3,10,2
+352,P01.bc58,1,8,B,52R,52,Line 8,"pht1,1",Col-0,Root,4,12,2
+355,P01.bc59,1,8,C,55R,55,Line 9,"pht1,4",WS,Root,2,14,2
+304,P01.bc60,1,8,D,4R,4,Col-0,Col-0,Col-0,Root,5,1,2
+250,P01.bc61,1,8,E,28L,28,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,4,15,2
+375,P01.bc62,1,8,F,75R,75,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,2
+291,P01.bc63,1,8,G,69L,69,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,4,9,2
+303,P01.bc64,1,8,H,3R,3,Col-0,Col-0,Col-0,Root,1,1,2
+286,P01.bc65,1,9,A,64L,64,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,1,8,2
+230,P01.bc66,1,9,B,8L,8,WS,WS,WS,Leaf,4,2,2
+223,P01.bc67,1,9,C,1L,1,Col-0,Col-0,Col-0,Leaf,2,1,2
+414,P01.bc68,1,9,D,36S,36,Line 5,"pht1,1;1,4",WS,Soil,4,13,2
+415,P01.bc69,1,9,E,37S,37,Line 6,Si81psl1,Col-0,Soil,2,4,2
+410,P01.bc70,1,9,F,32S,32,Line 5,"pht1,1;1,4",WS,Soil,3,13,2
+288,P01.bc71,1,9,G,66L,66,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,2,8,2
+243,P01.bc72,1,9,H,21L,21,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,6,11,2
+344,P01.bc73,1,10,A,44R,44,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,2,16,2
+412,P01.bc74,1,10,B,34S,34,Line 5,"pht1,1;1,4",WS,Soil,2,13,2
+401,P01.bc75,1,10,C,23S,23,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,2,11,2
+269,P01.bc76,1,10,D,47L,47,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,5,16,2
+455,P01.bc77,1,10,E,77S,77,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,4,10,2
+380,P01.bc78,1,10,F,2S,2,Col-0,Col-0,Col-0,Soil,4,1,2
+255,P01.bc79,1,10,G,33L,33,Line 5,"pht1,1;1,4",WS,Leaf,4,13,2
+261,P01.bc80,1,10,H,39L,39,Line 6,Si81psl1,Col-0,Leaf,4,4,2
+259,P01.bc81,1,11,A,37L,37,Line 6,Si81psl1,Col-0,Leaf,2,4,2
+251,P01.bc82,1,11,B,29L,29,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,2,15,2
+343,P01.bc83,1,11,C,43R,43,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,1,16,2
+254,P01.bc84,1,11,D,32L,32,Line 5,"pht1,1;1,4",WS,Leaf,3,13,2
+226,P01.bc85,1,11,E,4L,4,Col-0,Col-0,Col-0,Leaf,5,1,2
+340,P01.bc86,1,11,F,40R,40,Line 6,Si81psl1,Col-0,Root,1,4,2
+346,P01.bc87,1,11,G,46R,46,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,2,16,2
+376,P01.bc88,1,11,H,76R,76,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,3,10,2
+330,P01.bc89,1,12,A,30R,30,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,4,15,2
+384,P01.bc90,1,12,B,6S,6,Col-0,Col-0,Col-0,Soil,4,1,2
+369,P01.bc91,1,12,C,69R,69,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,4,9,2
+347,P01.bc92,1,12,D,47R,47,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,5,16,2
+300,P01.bc93,1,12,E,78L,78,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,2
+242,P01.bc94,1,12,F,20L,20,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,1,11,2
+452,P01.bc95,1,12,G,74S,74,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,3,10,2
+372,P02.bc1,2,1,A,72R,72,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,5,9,2
+374,P02.bc2,2,1,B,74R,74,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,3,10,2
+295,P02.bc3,2,1,C,73L,73,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,2
+290,P02.bc4,2,1,D,68L,68,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,3,9,2
+435,P02.bc5,2,1,E,57S,57,Line 9,"pht1,4",WS,Soil,2,14,2
+293,P02.bc6,2,1,F,71L,71,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,2,9,2
+234,P02.bc7,2,1,G,12L,12,WS,WS,WS,Leaf,4,2,2
+324,P02.bc8,2,1,H,24R,24,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,3,11,2
+367,P02.bc9,2,2,A,67R,67,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,4,9,2
+302,P02.bc10,2,2,B,2R,2,Col-0,Col-0,Col-0,Root,4,1,2
+247,P02.bc11,2,2,C,25L,25,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,1,15,2
+388,P02.bc12,2,2,D,10S,10,WS,WS,WS,Soil,3,2,2
+383,P02.bc13,2,2,E,5S,5,Col-0,Col-0,Col-0,Soil,4,1,2
+284,P02.bc14,2,2,F,62L,62,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,1,8,2
+301,P02.bc15,2,2,G,1R,1,Col-0,Col-0,Col-0,Root,2,1,2
+334,P02.bc16,2,2,H,34R,34,Line 5,"pht1,1;1,4",WS,Root,2,13,2
+272,P02.bc17,2,3,A,50L,50,Line 8,"pht1,1",Col-0,Leaf,3,12,2
+413,P02.bc18,2,3,B,35S,35,Line 5,"pht1,1;1,4",WS,Soil,1,13,2
+253,P02.bc19,2,3,C,31L,31,Line 5,"pht1,1;1,4",WS,Leaf,3,13,2
+263,P02.bc20,2,3,D,41L,41,Line 6,Si81psl1,Col-0,Leaf,2,4,2
+370,P02.bc21,2,3,E,70R,70,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,1,9,2
+233,P02.bc22,2,3,F,11L,11,WS,WS,WS,Leaf,3,2,2
+274,P02.bc23,2,3,G,52L,52,Line 8,"pht1,1",Col-0,Leaf,4,12,2
+289,P02.bc24,2,3,H,67L,67,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,4,9,2
+436,P02.bc25,2,4,A,58S,58,Line 9,"pht1,4",WS,Soil,1,14,2
+457,P02.bc26,2,4,B,79S,79,Bulk soil,Bulk soil,Bulk soil,Soil,1,17,2
+339,P02.bc27,2,4,C,39R,39,Line 6,Si81psl1,Col-0,Root,4,4,2
+437,P02.bc28,2,4,D,59S,59,Line 9,"pht1,4",WS,Soil,4,14,2
+402,P02.bc29,2,4,E,24S,24,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,3,11,2
+240,P02.bc30,2,4,F,18L,18,Line 2,Si81,Col-0,Leaf,2,3,2
+320,P02.bc31,2,4,G,20R,20,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,1,11,2
+224,P02.bc32,2,4,H,2L,2,Col-0,Col-0,Col-0,Leaf,4,1,2
+461,P02.bc33,2,5,A,83S,83,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,2
+354,P02.bc34,2,5,B,54R,54,Line 8,"pht1,1",Col-0,Root,3,12,2
+386,P02.bc35,2,5,C,8S,8,WS,WS,WS,Soil,4,2,2
+400,P02.bc36,2,5,D,22S,22,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,1,11,2
+257,P02.bc37,2,5,E,35L,35,Line 5,"pht1,1;1,4",WS,Leaf,1,13,2
+391,P02.bc38,2,5,F,13S,13,Line 2,Si81,Col-0,Soil,1,3,2
+363,P02.bc39,2,5,G,63R,63,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,2,8,2
+256,P02.bc40,2,5,H,34L,34,Line 5,"pht1,1;1,4",WS,Leaf,2,13,2
+266,P02.bc41,2,6,A,44L,44,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,2,16,2
+443,P02.bc42,2,6,B,65S,65,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,2,8,2
+449,P02.bc43,2,6,C,71S,71,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,2,9,2
+390,P02.bc44,2,6,D,12S,12,WS,WS,WS,Soil,4,2,2
+416,P02.bc45,2,6,E,38S,38,Line 6,Si81psl1,Col-0,Soil,3,4,2
+236,P02.bc46,2,6,F,14L,14,Line 2,Si81,Col-0,Leaf,4,3,2
+329,P02.bc47,2,6,G,29R,29,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,2,15,2
+373,P02.bc48,2,6,H,73R,73,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,2
+460,P02.bc49,2,7,A,82S,82,Bulk soil,Bulk soil,Bulk soil,Soil,1,17,2
+440,P02.bc50,2,7,B,62S,62,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,1,8,2
+318,P02.bc51,2,7,C,18R,18,Line 2,Si81,Col-0,Root,2,3,2
+371,P02.bc52,2,7,D,71R,71,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,2,9,2
+281,P02.bc53,2,7,E,59L,59,Line 9,"pht1,4",WS,Leaf,4,14,2
+307,P02.bc54,2,7,F,7R,7,WS,WS,WS,Root,3,2,2
+322,P02.bc55,2,7,G,22R,22,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,1,11,2
+285,P02.bc56,2,7,H,63L,63,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,2,8,2
+299,P02.bc57,2,8,A,77L,77,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,4,10,2
+364,P02.bc58,2,8,B,64R,64,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,1,8,2
+306,P02.bc59,2,8,C,6R,6,Col-0,Col-0,Col-0,Root,4,1,2
+262,P02.bc60,2,8,D,40L,40,Line 6,Si81psl1,Col-0,Leaf,1,4,2
+338,P02.bc61,2,8,E,38R,38,Line 6,Si81psl1,Col-0,Root,3,4,2
+418,P02.bc62,2,8,F,40S,40,Line 6,Si81psl1,Col-0,Soil,1,4,2
+445,P02.bc63,2,8,G,67S,67,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,4,9,2
+382,P02.bc64,2,8,H,4S,4,Col-0,Col-0,Col-0,Soil,5,1,2
+310,P02.bc65,2,9,A,10R,10,WS,WS,WS,Root,3,2,2
+434,P02.bc66,2,9,B,56S,56,Line 9,"pht1,4",WS,Soil,4,14,2
+268,P02.bc67,2,9,C,46L,46,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,2,16,2
+438,P02.bc68,2,9,D,60S,60,Line 9,"pht1,4",WS,Soil,1,14,2
+362,P02.bc69,2,9,E,62R,62,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,1,8,2
+312,P02.bc70,2,9,F,12R,12,WS,WS,WS,Root,4,2,2
+407,P02.bc71,2,9,G,29S,29,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,2,15,2
+258,P02.bc72,2,9,H,36L,36,Line 5,"pht1,1;1,4",WS,Leaf,4,13,2
+431,P02.bc73,2,10,A,53S,53,Line 8,"pht1,1",Col-0,Soil,3,12,2
+294,P02.bc74,2,10,B,72L,72,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,5,9,2
+296,P02.bc75,2,10,C,74L,74,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,3,10,2
+229,P02.bc76,2,10,D,7L,7,WS,WS,WS,Leaf,3,2,2
+378,P02.bc77,2,10,E,78R,78,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Root,2,10,2
+333,P02.bc78,2,10,F,33R,33,Line 5,"pht1,1;1,4",WS,Root,4,13,2
+308,P02.bc79,2,10,G,8R,8,WS,WS,WS,Root,4,2,2
+456,P02.bc80,2,10,H,78S,78,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,2
+451,P02.bc81,2,11,A,73S,73,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,2
+404,P02.bc82,2,11,B,26S,26,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,1,15,2
+356,P02.bc83,2,11,C,56R,56,Line 9,"pht1,4",WS,Root,4,14,2
+313,P02.bc84,2,11,D,13R,13,Line 2,Si81,Col-0,Root,1,3,2
+348,P02.bc85,2,11,E,48R,48,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Root,1,16,2
+316,P02.bc86,2,11,F,16R,16,Line 2,Si81,Col-0,Root,4,3,2
+430,P02.bc87,2,11,G,52S,52,Line 8,"pht1,1",Col-0,Soil,4,12,2
+439,P02.bc88,2,11,H,61S,61,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,3,8,2
+368,P02.bc89,2,12,A,68R,68,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Root,3,9,2
+358,P02.bc90,2,12,B,58R,58,Line 9,"pht1,4",WS,Root,1,14,2
+350,P02.bc91,2,12,C,50R,50,Line 8,"pht1,1",Col-0,Root,3,12,2
+361,P02.bc92,2,12,D,61R,61,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,3,8,2
+239,P02.bc93,2,12,E,17L,17,Line 2,Si81,Col-0,Leaf,2,3,2
+225,P02.bc94,2,12,F,3L,3,Col-0,Col-0,Col-0,Leaf,1,1,2
+398,P02.bc95,2,12,G,20S,20,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,1,11,2
+327,P03.bc1,3,1,A,27R,27,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,4,15,2
+335,P03.bc2,3,1,B,35R,35,Line 5,"pht1,1;1,4",WS,Root,1,13,2
+351,P03.bc3,3,1,C,51R,51,Line 8,"pht1,1",Col-0,Root,3,12,2
+389,P03.bc4,3,1,D,11S,11,WS,WS,WS,Soil,3,2,2
+314,P03.bc5,3,1,E,14R,14,Line 2,Si81,Col-0,Root,4,3,2
+458,P03.bc6,3,1,F,80S,80,Bulk soil,Bulk soil,Bulk soil,Soil,4,17,2
+406,P03.bc7,3,1,G,28S,28,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,4,15,2
+403,P03.bc8,3,1,H,25S,25,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,1,15,2
+273,P03.bc9,3,2,A,51L,51,Line 8,"pht1,1",Col-0,Leaf,3,12,2
+311,P03.bc10,3,2,B,11R,11,WS,WS,WS,Root,3,2,2
+420,P03.bc11,3,2,C,42S,42,Line 6,Si81psl1,Col-0,Soil,1,4,2
+357,P03.bc12,3,2,D,57R,57,Line 9,"pht1,4",WS,Root,2,14,2
+319,P03.bc13,3,2,E,19R,19,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Root,1,11,2
+235,P03.bc14,3,2,F,13L,13,Line 2,Si81,Col-0,Leaf,1,3,2
+325,P03.bc15,3,2,G,25R,25,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,1,15,2
+283,P03.bc16,3,2,H,61L,61,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Leaf,3,8,2
+453,P03.bc17,3,3,A,75S,75,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,2,10,2
+309,P03.bc18,3,3,B,9R,9,WS,WS,WS,Root,3,2,2
+395,P03.bc19,3,3,C,17S,17,Line 2,Si81,Col-0,Soil,2,3,2
+331,P03.bc20,3,3,D,31R,31,Line 5,"pht1,1;1,4",WS,Root,3,13,2
+349,P03.bc21,3,3,E,49R,49,Line 8,"pht1,1",Col-0,Root,3,12,2
+366,P03.bc22,3,3,F,66R,66,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,2,8,2
+337,P03.bc23,3,3,G,37R,37,Line 6,Si81psl1,Col-0,Root,2,4,2
+305,P03.bc24,3,3,H,5R,5,Col-0,Col-0,Col-0,Root,4,1,2
+297,P03.bc25,3,4,A,75L,75,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Leaf,2,10,2
+409,P03.bc26,3,4,B,31S,31,Line 5,"pht1,1;1,4",WS,Soil,3,13,2
+270,P03.bc27,3,4,C,48L,48,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Leaf,1,16,2
+381,P03.bc28,3,4,D,3S,3,Col-0,Col-0,Col-0,Soil,1,1,2
+326,P03.bc29,3,4,E,26R,26,Line 4,"pht1,4/S1-L11_138643",Col-0,Root,1,15,2
+417,P03.bc30,3,4,F,39S,39,Line 6,Si81psl1,Col-0,Soil,4,4,2
+244,P03.bc31,3,4,G,22L,22,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Leaf,1,11,2
+365,P03.bc32,3,4,H,65R,65,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Root,2,8,2
+397,P03.bc33,3,5,A,19S,19,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,1,11,2
+394,P03.bc34,3,5,B,16S,16,Line 2,Si81,Col-0,Soil,4,3,2
+405,P03.bc35,3,5,C,27S,27,Line 4,"pht1,4/S1-L11_138643",Col-0,Soil,4,15,2
+454,P03.bc36,3,5,D,76S,76,Line 12,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #1-2",WS,Soil,3,10,2
+332,P03.bc37,3,5,E,32R,32,Line 5,"pht1,1;1,4",WS,Root,3,13,2
+459,P03.bc38,3,5,F,81S,81,Bulk soil,Bulk soil,Bulk soil,Soil,3,17,2
+252,P03.bc39,3,5,G,30L,30,Line 4,"pht1,4/S1-L11_138643",Col-0,Leaf,4,15,2
+444,P03.bc40,3,5,H,66S,66,Line 10,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 2-1",WS,Soil,2,8,2
+424,P03.bc41,3,6,A,46S,46,Line 7,"pht1,4/SAIL_1225_G08",Col-0,Soil,2,16,2
+399,P03.bc42,3,6,B,21S,21,Line 3,"pht1,1;1,4/pPHT1,4:PHT1,4;S258A - GFP #2-3",WS,Soil,6,11,2
+292,P03.bc43,3,6,C,70L,70,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Leaf,1,9,2
+429,P03.bc44,3,6,D,51S,51,Line 8,"pht1,1",Col-0,Soil,3,12,2
+447,P03.bc45,3,6,E,69S,69,Line 11,"pht1,1;1,4/pPHT1,4:PHT1,4 GFP # 3-1",WS,Soil,4,9,2
+419,P03.bc46,3,6,F,41S,41,Line 6,Si81psl1,Col-0,Soil,2,4,2
+387,P03.bc47,3,6,G,9S,9,WS,WS,WS,Soil,3,2,2
